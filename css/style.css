@@ -240,7 +240,9 @@ textarea{
         transition:  all .8s;
     }
     .ft-link:hover{
-        font-weight: bold;
+        transform: translateX(5px);
+        color: #0066ff;
+        
     }
     .btn-blue{
         background-color: #0066ff;
